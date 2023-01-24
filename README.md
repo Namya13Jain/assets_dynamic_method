@@ -1,16 +1,4 @@
 # dynamic_assets
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This repository explains the dynamic method of adding assets to the file.
+The output of this code is attached ![Screenshot_1674386758](https://user-images.githubusercontent.com/100767035/214205212-23f5bf57-1fc6-4b72-97dd-ccad4bb9808d.png)
